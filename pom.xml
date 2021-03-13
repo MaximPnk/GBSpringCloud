@@ -9,6 +9,7 @@
 		<module>rest-template-client</module>
 		<module>feign-client</module>
 		<module>dto</module>
+		<module>ui</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
